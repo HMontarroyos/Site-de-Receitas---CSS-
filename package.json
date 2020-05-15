@@ -1,0 +1,34 @@
+{
+  "name": "arquitetura-css-assets",
+  "version": "1.0.0",
+  "description": "Curso de arquitetura da Alura.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HMontarroyos/Site-de-Receitas---CSS-.git"
+  },
+  "author": "Hebert Montarroyos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HMontarroyos/Site-de-Receitas---CSS-/issues"
+  },
+  "homepage": "https://github.com/HMontarroyos/Site-de-Receitas---CSS-#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-imagemin": "^4.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-rev": "^0.1.0",
+    "grunt-usemin": "^3.1.1"
+  }
+}
